@@ -1,0 +1,103 @@
+body 
+{ background-color:white; 
+}
+
+
+ h1 span
+ {  padding-top:60px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0px 100px 100px 100px;
+    background: #216aaf;
+    color: white;
+     font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px  ; 
+}
+
+h2 span{  
+    padding-top:80px; 
+    padding-bottom: 
+    90px;padding-left: 20px;
+    padding-right: 20px; 
+    border-radius: 0px 100px 100px 100px;
+    background: #216aaf; 
+    color: white; 
+    font-size: 1.5em; 
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px  ;         
+}
+
+
+.pta  {  
+    padding-top:15px; 
+    padding-bottom:15px;
+    padding-left: 15px;
+    padding-right: 15px; 
+    border-radius: 4px 20px 4px 4px;
+     max-width: 20%;
+     text-align: center;
+    background: rgb(19,146,176);
+    background: linear-gradient(90deg, rgba(19,146,176,1) 0%, rgba(219,246,251,1) 100%);     color: black; font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px  ;         
+}
+.toc{
+    padding-top:105px; 
+    padding-bottom:25px;
+    padding-left: 25px;
+    padding-right: 25px; 
+    border-radius: 0px 40px 40px 40px;
+    background: #dedfe0;     
+     max-width: 50%;
+    color: black; font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px  ;         
+}
+.tol{
+    padding-top:15px; 
+    padding-bottom:15px;
+    padding-left: 15px;
+    padding-right: 15px; 
+    border-radius: 4px 20px 4px 4px;
+     max-width: 50%;
+     text-align: center;
+    background: #9ce9f7;
+    color: #0b7992;
+    
+         
+}  
+.box{
+    padding-top:15px; 
+    padding-bottom:15px;
+    padding-left: 15px;
+    padding-right: 15px; 
+    border-radius: 4px 20px 4px 4px;
+     max-width: 20%;
+     background: #ffffff;
+    color: #ec8805;
+    
+-webkit-box-shadow: 2px 0px 16px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 0px 16px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 0px 16px 0px rgba(0,0,0,0.75);
+     letter-spacing: 1px  ;         
+}
+.divorange{
+    background-color: #ffdec7; 
+    padding-top:3px; 
+    padding-bottom:15px;
+    padding-left: 15px;
+    padding-right: 15px; 
+    max-width: 20%;
+     color: rgb(243, 106, 26);
+    border-radius: 4px 30px 10px 10px;
+}  
+.orangep{
+    background: rgb(210,59,2);   
+     border-radius: 8px 8px 8px 8px;
+font-size: 1.5em;
+text-align: center;
+padding:10px;
+ background: linear-gradient(90deg, rgba(210,59,2,1) 7%, rgba(242,169,19,1) 74%);
+ color: white;
+ font-family: 'Times New Roman', Times, serif;
+}
